@@ -1,0 +1,9 @@
+fastapi>=0.68.0
+uvicorn>=0.15.0
+pydantic>=1.8.0
+librosa>=0.8.1
+SpeechRecognition>=3.8.1
+numpy>=1.21.0
+nltk>=3.6.3
+langdetect>=1.0.9
+python-multipart>=0.0.5
